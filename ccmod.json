@@ -1,0 +1,12 @@
+{
+  "id": "cc-shrimp",
+  "version": "1.0.0",
+  "title": "Shrimp",
+  "description": "Shrimp shredder, as shrimple as that",
+  "repository": "https://github.com/krypciak/cc-shrimp",
+  "tags": ["cosmetic", "fun"],
+  "authors": ["MizuMatthias"],
+  "icons": {
+    "24": "icon.png"
+  }
+}
