@@ -2,4 +2,4 @@
 
 Sprites made by MizuMatthias.
 
-![das](https://github.com/user-attachments/assets/c2bde44f-9875-4b8f-8d39-af273419c5a5)
+![shrimp](https://github.com/user-attachments/assets/b8546df9-5676-4093-ba31-0da258110ba2)
